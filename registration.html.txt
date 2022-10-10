@@ -1,6 +1,7 @@
 <html>
 	<body>
 		console.log("Details need to be entered")
+		console.log("new fields are added")
 		console.log("Details are send to server side")
 	</body>
 </html>
