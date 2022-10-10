@@ -1,6 +1,7 @@
 <html>
 	<body>
 		console.log("Details are prosessed")
+		console.log("Details are encrypted with high security")
 		console.log("Details are diaplayed")
 	</body>
 </html>
