@@ -1,0 +1,5 @@
+<html>
+	<body>
+		console.log("Details are displayed with perfect design")
+	</body>
+</html>

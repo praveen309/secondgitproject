@@ -1,0 +1,6 @@
+<html>
+	<body>
+		console.log("Details need to be entered")
+		console.log("Details are send to server side")
+	</body>
+</html>
