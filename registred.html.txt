@@ -1,7 +1,7 @@
 <html>
 	<body>
-		console.log("Details are prosessed")
-		console.log("Details are porcessed at advance level")
+		console.log("Details are processed at advance level")
+		console.log("Details are encrypted with high security")
 		console.log("Details are diaplayed")
 	</body>
 </html>
