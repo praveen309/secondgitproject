@@ -1,5 +1,6 @@
 <html>
 	<body>
 		console.log("Details are displayed with perfect design")
+		console.log("Details are shown with best design")
 	</body>
 </html>
